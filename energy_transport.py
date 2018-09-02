@@ -42,7 +42,7 @@ print(mtime)
 print(mtime[2])
 
 nmonth = 12
-dirname = "/scratch/hkb2/HIRAM_AQUA/aqua/aqua_som20_qflux0_"+CO2+"co2"\
+dirname = "/home/hamza/Dalma/HIRAM_AQUA/aqua/aqua_som20_qflux0_"+CO2+"co2"\
           "_delsol1.0_cosz2.0_S"+S0+"_alb8_zspecdaily_mean_heat8.e07/output/" 
 
 
